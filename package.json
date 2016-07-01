@@ -1,0 +1,35 @@
+{
+  "name": "angular-base",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "angular": "^1.5.7",
+    "angular-animate": "^1.5.7",
+    "angular-mocks": "^1.5.7",
+    "angular-route": "^1.5.7",
+    "angular-sanitize": "^1.5.7",
+    "gulp": "^3.9.1",
+    "jasmine-core": "^2.4.1",
+    "jquery": "^3.0.0",
+    "karma": "^1.1.0",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-coverage": "^1.0.0",
+    "karma-jasmine": "^1.0.2",
+    "moment": "^2.13.0",
+    "toastr": "^2.1.2"
+  },
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Filipews/angular-base.git"
+  },
+  "author": "Filipe W",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Filipews/angular-base/issues"
+  },
+  "homepage": "https://github.com/Filipews/angular-base#readme"
+}
